@@ -2,15 +2,6 @@
 // File Pointer 
 /*
 List of functions:
-
-
-
-
-
-
-
-
-
 */ 
 #include<stdio.h>
 
